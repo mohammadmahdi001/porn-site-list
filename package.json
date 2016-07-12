@@ -1,0 +1,36 @@
+{
+  "name": "porn-sites",
+  "version": "0.2.0",
+  "description": "List of porn sites on the world",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mohammadmahdi001/porn-site-list"
+  },
+  "keywords": [
+    "porn",
+    "sites",
+    "porn-site",
+    "list"
+  ],
+  "dependencies": {
+    "first-match": "~0.0.1",
+    "express": "^4.3.2",
+    "validator": "^3.12.0",
+    "lodash": "^2.4.1",
+    "node-parse-url": "^0.1.0",
+    "async": "^0.9.0",
+    "request": "^2.36.0",
+    "cheerio": "^0.16.0"
+  },
+  "author": "Hengki Sihombing <hengki.sihombing@gmail.com> (http://twitter.com/hengkiardo)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mohammadmahdi001/porn-site-list/issues"
+  },
+  "homepage": "https://github.com/mohammadmahdi001/porn-site-list"
+}
